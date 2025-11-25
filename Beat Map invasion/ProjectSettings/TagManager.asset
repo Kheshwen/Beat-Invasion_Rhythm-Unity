@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Activator
+  - Note
+  - NoteHold
+  - Note2hit
+  - Note3hit
+  - PerfectEffect
+  - HitEffect
+  - MissEffect
+  - GoodEffect
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 961628357
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Notes
+    uniqueID: 805136123
+    locked: 0
