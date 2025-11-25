@@ -5,11 +5,7 @@ using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
 {
-     //this is for normal score. Not accuracu score
-
-    public static bool startPlaying;
-
-    public BeatScroller theBeatScroller;
+     //this is for normal score. Not accuracy score
 
     public static GameManager instance;
 
@@ -65,16 +61,6 @@ public class GameManager : MonoBehaviour
         currentMultiplier = 1;
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        if (!startPlaying && Input.anyKeyDown)
-        {
-            startPlaying = true;
-            theBeatScroller.hasStarted = true;
-           
-        }
-
     }
     public void NormalHit()                  //method for first hit
     {
@@ -129,4 +115,5 @@ public class GameManager : MonoBehaviour
         multiText.text = "Multiplier = x" + currentMultiplier;
     }
 }
+
 
