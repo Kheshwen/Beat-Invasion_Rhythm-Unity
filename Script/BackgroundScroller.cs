@@ -7,11 +7,6 @@ public class BackgroundScroller : MonoBehaviour
     public float speed;
     [SerializeField]
     private Renderer bgRenderer;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
     // Update is called once per frame
     void Update()        
@@ -19,3 +14,4 @@ public class BackgroundScroller : MonoBehaviour
         bgRenderer.material.mainTextureOffset += new Vector2(0, speed * Time.deltaTime);       //to make background move infinitely
     }
 }
+
