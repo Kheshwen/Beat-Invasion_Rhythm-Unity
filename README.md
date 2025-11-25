@@ -31,10 +31,6 @@ The game utilizes an Object-Oriented architecture to manage game states and inte
 * **Version Control:** Git & GitHub (LFS enabled)
 * **IDE:** Visual Studio / VS Code
 
-## Controls
-* **D / F / J / K**: Hit the notes as they align with the judgment line.
-* **Esc**: Pause Menu.
-
 ## How to Run the Project
 1.  **Clone the repository:**
     ```bash
