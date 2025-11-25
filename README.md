@@ -22,7 +22,8 @@ The game utilizes an Object-Oriented architecture to manage game states and inte
 * **`ScoreManager`**: Tracks current combos, final scores, and effect application.
 * **`NoteBase`**: A parent class for different note types (`NoteSingleHit`, `NoteDoubleHit`, `NoteHoldHit`) to share common logic like miss detection and visual effects.
 
-![UML Diagram](OOPUML.jpg)
+![UML Diagram](![WhatsApp Image 2025-11-23 at 18 01 22_64f421cd](https://github.com/user-attachments/assets/7cedf7ab-7072-4d6a-8f30-22dcf93f58e8)
+)
 
 ## Technologies
 * **Engine:** Unity 2022 (C#)
