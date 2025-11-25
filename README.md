@@ -4,6 +4,7 @@
 
 ### Gameplay Demo
 [![Gameplay Video](http://img.youtube.com/vi/mFOqnpyjhA8/0.jpg)](https://youtu.be/mFOqnpyjhA8)
+
 *> Click the image above to watch the gameplay video!*
 
 ## Downloads & Resources
