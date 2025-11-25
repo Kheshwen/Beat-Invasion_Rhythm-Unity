@@ -6,11 +6,6 @@ public class EffectObject : MonoBehaviour
 {
 
     public float lifetime = 0.20f;    // how long until it destroyed
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
     // Update is called once per frame
     void Update()
@@ -18,3 +13,4 @@ public class EffectObject : MonoBehaviour
         Destroy(gameObject, lifetime);     //destroy game object after lifetime become zero
     }
 }
+
