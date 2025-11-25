@@ -7,6 +7,7 @@
 *> Click the image above to watch the gameplay video!*
 
 ## Downloads & Resources
+* **[Download Windows PC Build (.zip)](BeatInvasion_PC.zip)** - Download, extract, and run `My project.exe` to play.
 * **[Google Drive (Game Files & Build)](https://drive.google.com/drive/folders/1U0XsKV5qSrTZACtotFhodXx0Y0XIt5l7?usp=sharing)** - Use this if the repository files are not accessible.
 
 ## Game Features
@@ -22,7 +23,7 @@ The game utilizes an Object-Oriented architecture to manage game states and inte
 * **`ScoreManager`**: Tracks current combos, final scores, and effect application.
 * **`NoteBase`**: A parent class for different note types (`NoteSingleHit`, `NoteDoubleHit`, `NoteHoldHit`) to share common logic like miss detection and visual effects.
 
-![UML Diagram](![WhatsApp Image 2025-11-23 at 18 01 22_64f421cd](https://github.com/user-attachments/assets/7cedf7ab-7072-4d6a-8f30-22dcf93f58e8)
+![UML Diagram](![WhatsApp Image 2025-11-23 at 18 01 22_64f421cd](https://github.com/user-attachments/assets/e646c705-0f84-419e-9045-a69f60a86bbb)
 )
 
 ## Technologies
@@ -49,7 +50,7 @@ The game utilizes an Object-Oriented architecture to manage game states and inte
 
 ## Credits
 * **Developer:** --
-* **Music & Assets:** --
+* **Music & Assets:** Original
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
