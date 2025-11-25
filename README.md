@@ -48,8 +48,8 @@ The game utilizes an Object-Oriented architecture to manage game states and inte
     * Press the **Play** button.
 
 ## Credits
-* **Developer:** Kheshwen
-* **Music & Assets:** Original & Third-party assets.
+* **Developer:** --
+* **Music & Assets:** --
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
