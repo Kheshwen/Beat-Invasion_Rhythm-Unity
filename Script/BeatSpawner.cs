@@ -17,14 +17,6 @@ public class BeatSpawner : MonoBehaviour
     public GameObject missPrefab;
     // ----------------------------------------
 
-    
-   
-
-    private void Awake()
-    {
-        
-    }
-    // ---------------------------------
 
     void Start()
     {
@@ -177,4 +169,5 @@ public class BeatSpawner : MonoBehaviour
         Destroy(judgment, 1f);
     }
     // ----------------------------------------
+
 }  
