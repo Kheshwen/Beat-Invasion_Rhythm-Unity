@@ -24,8 +24,7 @@ The game utilizes an Object-Oriented architecture to manage game states and inte
 * **`NoteBase`**: A parent class for different note types (`NoteSingleHit`, `NoteDoubleHit`, `NoteHoldHit`) to share common logic like miss detection and visual effects.
 
 ## UML Diagram
-![WhatsApp Image 2025-11-23 at 18 01 22_64f421cd](https://github.com/user-attachments/assets/e646c705-0f84-419e-9045-a69f60a86bbb)
-
+[]
 ## Technologies
 * **Engine:** Unity 2022 (C#)
 * **Version Control:** Git & GitHub (LFS enabled)
